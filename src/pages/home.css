@@ -1,0 +1,9 @@
+.home__posts {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.home__postsRight {
+    margin-left: 20px;
+}
